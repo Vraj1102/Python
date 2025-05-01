@@ -1,0 +1,18 @@
+GitHub Repo 
+
+1. 
+sudo apt update
+sudo apt install git python3-pip -y
+
+2.
+git clone https://github.com/Vraj1102/main_python.git
+
+cd main_python
+
+cd python
+
+3. 
+pip install -r requirements.txt --break-system-packages
+
+4.
+python3 app.py
